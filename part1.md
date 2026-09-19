@@ -547,3 +547,4 @@ This is the most complex page. It combines patterns you already used in earlier 
 - The edit form opens with the current values pre-filled.
 - After submitting, you are redirected to the detail page showing the updated data.
 - The updated data also appears correctly in the books list on the Home page.
+

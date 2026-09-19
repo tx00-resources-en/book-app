@@ -30,3 +30,4 @@ bookSchema.set("toJSON", {
 const Book = mongoose.model("Book", bookSchema);
 
 module.exports = Book;
+

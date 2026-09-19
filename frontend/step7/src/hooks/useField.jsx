@@ -9,3 +9,4 @@ export default function useField(type) {
 
   return { type, value, onChange };
 }
+

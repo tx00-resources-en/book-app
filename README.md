@@ -14,3 +14,4 @@ This repository includes **a hands‑on lab**, that guides you through building 
 [Part 2: Iterations 6–7](./part2.md) — Add authentication and route protection:
 - **Iteration 6:** User signup & login with inline `useState` and `fetch`, JWT stored in `localStorage`.
 - **Iteration 7:** Protected routes using `<Navigate>`, `Authorization: Bearer <token>` headers on POST/PUT/DELETE, and conditional rendering based on authentication state.
+

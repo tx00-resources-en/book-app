@@ -85,3 +85,4 @@ const BookPage = ({ isAuthenticated }) => {
 };
 
 export default BookPage;
+

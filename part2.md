@@ -775,3 +775,4 @@ Same pattern as AddBookPage:
 - What is the difference between **client-side route protection** (`<Navigate>`) and **server-side route protection** (`requireAuth` middleware)? Do you need both?
 - Why do we initialize `isAuthenticated` with a function (`useState(() => { ... })`) instead of just `useState(false)`?
 - What happens if a user manually deletes the token from `localStorage` while the app is open?
+
